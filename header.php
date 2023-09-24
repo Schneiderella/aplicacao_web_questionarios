@@ -6,7 +6,7 @@
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom py-0 mb-3">
 			<div class="container-fluid">
 				<a href="index.php">
-					<h1><img src="../questionarios/libs/img/Qlogo.png" style="max-width:60px" alt="Quest logo"></h1>
+					<h1><img src="../aplicacao_web_questionarios/libs/img/Qlogo.png" style="max-width:60px" alt="Quest logo"></h1>
 				</a>
 				<a class="navbar-brand" href="#"><h4><?=$titulo_pagina?></h4></a>
 				<div class="collapse navbar-collapse" id="navbarScroll">

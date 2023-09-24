@@ -8,7 +8,7 @@ include_once "header.php";
 <div class="modal modal-sheet position-static d-block p-4 py-md-5" tabindex="-1" role="dialog" id="modalSignin">
     <div class="modal-dialog" role="document">         
         <div class="col-12 text-center">
-            <h1><img src="../questionarios/libs/img/Qlogo.png" style="max-width:80px" alt="Quest logo"></h1>
+            <h1><img src="../aplicacao_web_questionarios/libs/img/Qlogo.png" style="max-width:80px" alt="Quest logo"></h1>
         </div>
         <div class="modal-content shadow">   
             <section class="col-10 m-auto py-3">
